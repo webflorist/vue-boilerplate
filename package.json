@@ -17,11 +17,11 @@
 		"lintfix": "pnpm lintfix:prettier && pnpm lintfix:js && pnpm lintfix:style"
 	},
 	"dependencies": {
-		"vue": "^3.3.4"
+		"vue": "^3.3.4",
+		"@fontsource/amaranth": "^5.0.8",
+		"@fontsource/roboto": "^5.0.8"
 	},
 	"devDependencies": {
-		"@fontsource/amaranth": "^5.0.8",
-		"@fontsource/roboto": "^5.0.8",
 		"@rushstack/eslint-patch": "^1.4.0",
 		"@tsconfig/node18": "^18.2.2",
 		"@types/node": "^20.6.3",
